@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Fender Player Stratocaster HSS",
+    "price": 879.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Squier Bullet Stratocaster",
+    "price": 179.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/2863/286399/main_6343f6f3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ibanez AZ2402",
+    "price": 1999.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/6256/625697/main_b504a8bc.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Yamaha Pacifica 112VM",
+    "price": 319.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/196/19613/main_c65761a5.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Fender American Stratocaster HSS",
+    "price": 1879.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Squier jagmaster",
+    "price": 679.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/2863/286399/main_6343f6f3.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Ibanez js1200",
+    "price": 2999.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/6256/625697/main_b504a8bc.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Yamaha Pacifica ",
+    "price": 619.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/196/19613/main_c65761a5.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Fender jim root Stratocaster HSS",
+    "price": 679.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Squier jazzmaster",
+    "price": 279.99,
+    "thumbnail": "https://muzikercdn.com/uploads/products/2863/286399/main_6343f6f3.jpg"
+  }
+
+]
